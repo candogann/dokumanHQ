@@ -16,14 +16,14 @@ Bu kısıma herkesin bakması ve önem vermesi gerek. Alanınız ne olursa olsun
 https://github.com/jlevy/the-art-of-command-line
 
 ## ML
-
+- Aşağıda seri okumaktan keyif aldığım bir seri, makine öğreniminin daha teorik ve alt yapılarını anlamanızı sağlayacaktır. 
 [Machine Learning From Scratch: Part 1](https://towardsdatascience.com/machine-learning-from-scratch-part-1-76603dececa6)
 
-- Yukardaki seri okumaktan keyif aldığım bir seri, daha teorik ve alt yapılarını anlamanızı sağlayacaktır.
+- Neural network versiyonu. Biraz daha karmaşık gelebilir. Ama keyiflidir.
 
 [Neural Network from scratch in Python](https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65)
 
-- Neural network versiyonu. Biraz daha karmaşık gelebilir. Ama keyiflidir.
+
 - Aşağıda da bir başlangıç reposu var.(Microsoft tarafından maintain ediliyor)
 
 https://github.com/microsoft/ML-For-Beginners
@@ -45,3 +45,7 @@ https://github.com/MichaelCade/90DaysOfDevOps
 - NodeJS:
 
 https://github.com/ishtms/learn-nodejs-hard-way
+
+## Son Söz
+
+Bazı github linklerini @ibrahimcetin arkadaşımdan "arakladım". Kendisine de teşekkür ediyorum.
