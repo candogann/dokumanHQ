@@ -48,4 +48,4 @@ https://github.com/ishtms/learn-nodejs-hard-way
 
 ## Son Söz
 
-Bazı github linklerini @ibrahimcetin arkadaşımdan "arakladım". Kendisine de teşekkür ediyorum.
+Bazı github linklerini [@ibrahimcetin](https://github.com/ibrahimcetin) arkadaşımdan "arakladım". Kendisine de teşekkür ediyorum.
